@@ -1,6 +1,3 @@
-# I will create the content in Markdown and save it as an md file.
-
-md_content = """
 # Zetrix Binary Node
 
 This repository contains the Zetrix binary node packaged in a zip file. Follow the instructions below to download, install, and run the node on your system.
