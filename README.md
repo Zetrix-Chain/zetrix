@@ -44,4 +44,5 @@ You can choose Ubuntu, Centos, or MacOS systems. The following systems are suppo
 Download the latest version of the Zetrix binary node from the releases page:
 
 ```bash
-wget https://github.com/Zetrix-Chain/zetrix/releases/download/1.0.1/prod_1.0.1_linux_amd64.tar.gz
+
+wget https://github.com/Zetrix-Chain/zetrix/releases/download/ver1.0.1/prod_1.0.1_linux_amd64.tar.gz
