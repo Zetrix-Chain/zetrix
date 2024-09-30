@@ -7,11 +7,11 @@ This repository contains the Zetrix binary node packaged in a zip file. Follow t
 - [Requirements](#requirements)
   - [Hardware Requirements](#hardware-requirements)
   - [Software Requirements](#software-requirements)
-- [License](#license)
-- [Contributing](#contributing)
+- [Installation](#Installation)
+- [Download the Binary Node](#Download the Binary Node)
 
 ## Overview
-Zetrix is a public and enterprise-ready blockchain that supports smart contracts and cross-chain integrations. This repository provides the binary node for running Zetrix on your local environment or a server.
+Zetrix is a public and enterprise-ready blockchain that supports smart contracts integrations. This repository provides the binary node for running Zetrix on your local environment or a server.
 
 ## Requirements
 
