@@ -7,11 +7,11 @@ This repository contains the Zetrix binary node packaged in a zip file. Follow t
 - [Requirements](#requirements)
   - [Hardware Requirements](#hardware-requirements)
   - [Software Requirements](#software-requirements)
-- [Installation](#Installation)
-- [Download the Binary Node](#Download the Binary Node)
+- [Installation](#installation)
+- [Download the Binary Node](#download-the-binary-node)
 
 ## Overview
-Zetrix is a public and enterprise-ready blockchain that supports smart contracts integrations. This repository provides the binary node for running Zetrix on your local environment or a server.
+Zetrix is a public and enterprise-ready blockchain that supports smart contract integrations. This repository provides the binary node for running Zetrix on your local environment or a server.
 
 ## Requirements
 
@@ -36,5 +36,5 @@ You can choose Ubuntu, Centos, or MacOS systems. The following systems are suppo
 Download the latest version of the Zetrix binary node from the releases page:
 
 ```bash
-
 wget https://github.com/Zetrix-Chain/zetrix/releases/download/ver1.0.1/prod_1.0.1_linux_amd64.tar.gz
+
